@@ -1,0 +1,3 @@
+[submodule "Stratosphere"]
+	path = Stratosphere
+	url = https://github.com/FateUnix29/Stratosphere.git
