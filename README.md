@@ -14,7 +14,7 @@ Rainstorm is (planned to be) an open source roleplay(-survival?) game set in the
 Things are currently in a very early state, so no promises. Development is also very, very slow, and the upstream team is minuscule.
 The current idea is that it should have an in-depth health and construction system.
 
-Nomen's lore can be found on the Discord, which is currently not linked here. It's unclear if that's a good idea or not.
+Nomen's lore can be found on the [Discord](https://discord.gg/FYGrDjJJtt). **Please be respectful. Additionally, we can generally sniff out bad intentions.**
 
 ## Licensing
 
